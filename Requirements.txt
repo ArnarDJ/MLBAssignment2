@@ -6,10 +6,6 @@ pandas>=2.0.0
 pillow>=10.0.0
 tqdm>=4.65.0
 
-# Deep Learning
-torch
-torchvision
-
 # Notebook / Jupyter
 ipykernel>=6.23.0
 ipython>=8.12.0
