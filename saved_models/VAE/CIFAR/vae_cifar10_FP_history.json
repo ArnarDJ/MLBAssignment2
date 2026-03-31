@@ -1,0 +1,23 @@
+{
+  "history": {
+    "train_loss": [
+      123.30502989257812
+    ],
+    "bce_loss": [
+      105.17562969726562
+    ],
+    "kld_loss": [
+      18.12940015472412
+    ]
+  },
+  "model_config": {
+    "in_channels": 3,
+    "input_size": 32,
+    "hidden_channels": 128,
+    "latent_dim": 256
+  },
+  "extra_info": {
+    "dataset": "cifar10",
+    "precision": "fp32"
+  }
+}

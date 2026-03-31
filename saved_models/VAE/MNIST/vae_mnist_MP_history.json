@@ -1,0 +1,23 @@
+{
+  "history": {
+    "train_loss": [
+      176.98518146158855
+    ],
+    "bce_loss": [
+      151.24938165690105
+    ],
+    "kld_loss": [
+      25.73580009403229
+    ]
+  },
+  "model_config": {
+    "in_channels": 1,
+    "input_size": 28,
+    "hidden_channels": 128,
+    "latent_dim": 128
+  },
+  "extra_info": {
+    "dataset": "mnist",
+    "precision": "mixed"
+  }
+}
