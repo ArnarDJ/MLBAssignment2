@@ -1,19 +1,20 @@
 {
   "history": {
     "train_loss": [
-      158.19627005208332
+      159.29033896484376
     ],
     "bce_loss": [
-      131.1257634765625
+      131.94445416666667
     ],
     "kld_loss": [
-      27.070506295839944
-    ]
+      27.345884644699098
+    ],
+    "training_time": 9.768793699971866
   },
   "model_config": {
     "in_channels": 1,
     "input_size": 28,
-    "hidden_channels": 128,
+    "hidden_channels": 400,
     "latent_dim": 128
   },
   "extra_info": {
