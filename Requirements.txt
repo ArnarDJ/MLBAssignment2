@@ -19,6 +19,10 @@ six>=1.16.0
 packaging>=23.0
 
 # torch and related libraries
-torch --index-url https://download.pytorch.org/whl/cu128
-torchvision --index-url https://download.pytorch.org/whl/cu128
-torchaudio  --index-url https://download.pytorch.org/whl/cu128
+# Move the index to its own line at the top
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch
+torchvision
+torchaudio
+torchmetrics
