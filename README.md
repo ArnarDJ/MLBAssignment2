@@ -6,14 +6,17 @@ There are 4 main notebooks, one for the VAE, another for the VQ-VAE, and then a 
 
 ### .ipynb Notebooks
 
-#### VAE.ipynb
-Contains the code, functions, model arcitecture and training functions for the VAE implimentation
+#### VAE_model_training.ipynb
+Contains the code, functions, model architecture and training functions for the VAE implementation. This file was used to create the final run with 100 epochs
 
 #### VQVAE.ipynb
-Contains the code, functions, model arcitecture and training functions for the VAE implimentation
+Contains the code, functions, model architecture and training functions for the VAE implementation
 
-#### Analysis_and_graphics.ipynb
-Loads in the models from final production runs and uses the saved models and infomation to prduce analitical graphs and compiled results from the training.
+#### VAE_Analysis_and_graphs.ipynb
+Loads in the models from the final production of VAEs and runs and uses the saved models and information to produce analytical graphs and compiled results from the training.
+
+#### VQVAE_Analysis_and_graphs.ipynb
+Loads in the models from the final production of VQ-VAE, and runs and uses the saved models and information to produce analytical graphs and compiled results from the training.
 
 
 ### Final models and Kaggle runs
