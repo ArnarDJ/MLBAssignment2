@@ -17,5 +17,6 @@ Loads in the models from final production runs and uses the saved models and inf
 
 
 ### Final models and Kaggle runs
-The final runs and saved models can be found in the folder `Kaggle >> Kaggle_run_final` in the designated folder for that model.
+The final runs and saved models can be found in the folder `Kaggle >> Kaggle_run_final` in the designated folder for that model and training dataset.
+
 
